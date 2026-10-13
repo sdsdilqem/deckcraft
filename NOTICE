@@ -27,3 +27,5 @@ Code dependencies
   https://github.com/pdeljanov/Symphonia.
 - The H.264, HEVC, VP9, AV1, Opus, MP4, Matroska and Ogg crates under crates/ are ported from
   FilmCraft (same owner, MIT OR Apache-2.0).
+
+Modified by sdsdilqem: added a license check (crates/craft-license) that DeckCraft runs at start-up.
